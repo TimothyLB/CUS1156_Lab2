@@ -1,3 +1,10 @@
+/* Lab 2
+* Class Item.java
+* Author: Timothy Barefield
+* Date: October 2/2023
+* About: This is the Unique words class where you find each unique word
+*/
+
 import java.util.ArrayList;
 
 public class UniqueWords
